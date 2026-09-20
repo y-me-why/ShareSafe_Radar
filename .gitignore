@@ -1,0 +1,15 @@
+# Credentials & Local Config
+config.json
+
+# Local AppData History
+ShareSafe_History/
+
+# Python Build & Virtual Environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# PyInstaller Build Artefacts
+build/
+*.spec
